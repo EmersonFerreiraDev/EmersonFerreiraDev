@@ -8,7 +8,7 @@ I’m currently based in Brazil, constantly evolving through daily practice and 
 ---
 
 🛠 Languages and Tools (Work in Progress)
-My current stack is focused on mastering 
+My current stack is focused on mastering the foundations. I’m constantly evolving and expanding these tools daily, with more to come:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
@@ -19,4 +19,4 @@ My current stack is focused on mastering
 
 ---
 
-*Writing lines of code, one sunrise at a time.*
+"I am not yet where I want to be, but I am closer than I was yesterday." — Miyamoto Musashi
