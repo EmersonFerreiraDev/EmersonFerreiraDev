@@ -23,8 +23,8 @@ Currently a **Full Stack Developer in training**, obsessed with building clean, 
 ---
 
 ### 📊 GitHub Stats
-![Emerson's Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
-![Emerson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Emerson's Stats](https://github-readme-stats.vercel.app/api?username=EmersonFerreiraDev&show_icons=true&theme=tokyonight&hide_border=true)
+![Emerson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonFerreiraDev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
