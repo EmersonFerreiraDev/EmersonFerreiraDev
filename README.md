@@ -17,5 +17,4 @@ My current stack is focused on mastering the foundations. I’m constantly evolv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 
 ---
-
-"I am not yet where I want to be, but I am closer than I was yesterday." — Miyamoto Musashi
+"A wrong decision is better than indecision." — Tony Soprano
