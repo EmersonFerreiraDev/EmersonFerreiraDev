@@ -10,6 +10,13 @@ I’m currently based in Brazil, constantly evolving through daily practice and 
 🛠 Languages and Tools (Work in Progress)
 My current stack is focused on mastering the foundations. I’m constantly evolving and expanding these tools daily, with more to come:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></td>
+  </tr>
+</table>
 ---
 "A wrong decision is better than indecision." — Tony Soprano
